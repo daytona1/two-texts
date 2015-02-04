@@ -42,8 +42,3 @@ Part 2
 
 _Will be announced in 2/10 class._
 
-
-Part 3
--------
-
-_Will be announced in class._
