@@ -40,7 +40,7 @@ Try your instructions on each text, and, write the results below in the same tex
 Part 2
 -------
 
-_Will be announced in class._
+_Will be announced in 2/10 class._
 
 
 Part 3
